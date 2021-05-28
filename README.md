@@ -1,8 +1,5 @@
-# ExpandedMermaids_Traditional_THAI
-ExpandedMermaids_Traditional_THAI
-
-#### ความรวมมือระหว่าง TheSimsUptome X Simscolony
-#### MOD แปลไทยสำหรับ ExpandedMermaids แปลไปแล้ว 78%
+# ความรวมมือระหว่าง TheSimsUptome X Simscolony
+## MOD แปลไทยสำหรับ ExpandedMermaids แปลไปแล้ว 78%
 
 | MOD   | Download |
 | ------------- | ------------- |
