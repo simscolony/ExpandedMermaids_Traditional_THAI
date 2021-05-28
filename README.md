@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# ExpandedMermaids_Traditional_THAI
+ExpandedMermaids_Traditional_THAI
 
-You can use the [editor on GitHub](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### ความรวมมือระหว่าง TheSimsUptome X Simscolony
+#### MOD แปลไทยสำหรับ ExpandedMermaids แปลไปแล้ว 78%
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| MOD   | Download |
+| ------------- | ------------- |
+|ExpandedMermaids ตัวเล่น|[ดาวโหลดตัวเล่น ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
+|แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย]()|
+|แปลไทย simsharefile|[ตัวแปล ExpandedMermaids ภาษาไทย simsharefile]()|
 
-### Markdown
+# วิธีการเล่น
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# การติดตั้ง
+ทำการแตกไฟล์ MOD หลัก  ExpandedMermaids และ [SIMSCOLONY]ExpandedMermaids_THAI ลง Floder Mod ของเกม The sims 4
+![MERMAID](https://i.imgur.com/VYgAuGj.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+# SS
+![MERMAID](https://i.imgur.com/jpYUAK0.png)
+![MERMAID](https://i.imgur.com/JZoAMw2.png)
+![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
+![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1933910-06-06-20_1-06-45PM.png)
 
-- Bulleted
-- List
+# หากพบปัญหา แจ้งงานแปล
+# # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
+# # ติดต่อสอบถามได้ที่ [TheSimsUptome](https://www.facebook.com/TheSimsUptome/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# การใช้งานโปรแกรมภายใต้กฏอนุญาติ 
+## http://cdn-assets-ts4.pulse.ea.com/Guide/TS4_Custom_Content_Guide.zip
+## https://forums.thesims.com/en_US/discussion/779844/maxis-documentation?fbclid=IwAR3i7YDNeoaWfNHJ_uLmUfzeVNIcf8gORINYgBocGDLSZQ9rbpDEG5MQG_Q
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The terms and conditions set out in The Sims 4 End User License Agreement (ea.com/1/product-eulas) and EA's Terms of Service (ea.com/terms-of-service) are applicable to the use of The Sims 4 product and services and all materials distributed by Maxis that relate to creating Custom Content and Mods for The Sims 4.
