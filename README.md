@@ -1,4 +1,4 @@
-# ความรวมมือระหว่าง TheSimsUptome X Simscolony
+# ความร่วมมือระหว่าง TheSimsUptome X Simscolony
 ## MOD แปลไทยสำหรับ ExpandedMermaids แปลไปแล้ว 78%
 
 | MOD   | Download |
@@ -8,7 +8,7 @@
 |แปลไทย simsharefile|[ตัวแปล ExpandedMermaids ภาษาไทย simsharefile]()|
 
 # วิธีการเล่น
-
+รอแนวทางการเล่น
 
 # การติดตั้ง
 ทำการแตกไฟล์ MOD หลัก  ExpandedMermaids และ [SIMSCOLONY]ExpandedMermaids_THAI ลง Floder Mod ของเกม The sims 4
