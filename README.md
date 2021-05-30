@@ -1,5 +1,6 @@
-# ความร่วมมือระหว่าง TheSimsUptome X Simscolony
-## MOD แปลไทยสำหรับ ExpandedMermaids แปลไปแล้ว 78%
+![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
+# MOD แปลไทยสำหรับ ExpandedMermaids 
+## แปลไปแล้ว 78%
 
 | MOD   | Download |
 | ------------- | ------------- |
@@ -7,8 +8,12 @@
 |แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย]()|
 |แปลไทย simsharefile|[ตัวแปล ExpandedMermaids ภาษาไทย simsharefile]()|
 
+## FairyMod NYX
+https://simscolony.github.io/FairyMod_Traditional_THAI/
+
 # วิธีการเล่น
-รอแนวทางการเล่น
+สอนเล่นโดย TheSimsUptome 
+กำลังดำเนินการ
 
 # การติดตั้ง
 ทำการแตกไฟล์ MOD หลัก  ExpandedMermaids และ [SIMSCOLONY]ExpandedMermaids_THAI ลง Floder Mod ของเกม The sims 4
@@ -17,7 +22,6 @@
 # SS
 ![MERMAID](https://i.imgur.com/jpYUAK0.png)
 ![MERMAID](https://i.imgur.com/JZoAMw2.png)
-![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1933910-06-06-20_1-06-45PM.png)
 
 # หากพบปัญหา แจ้งงานแปล
