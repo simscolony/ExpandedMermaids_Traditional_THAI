@@ -6,6 +6,7 @@
 | ------------- | ------------- |
 |ExpandedMermaids ตัวเล่น|[ดาวโหลดตัวเล่น ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
 |แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V01.package)|
+
 **ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
 ## FairyMod NYX
