@@ -51,8 +51,8 @@ https://simscolony.github.io/FairyMod_Traditional_THAI/
 
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/8.jpg)
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/9.jpg)
-![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/10.jpg)
-![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/11.jpg)
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/10.png)
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/11.png)
 
 
 # การติดตั้ง
