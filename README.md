@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 |ExpandedMermaids ตัวเล่น|[ดาวโหลดตัวเล่น ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
 |แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V01.package)|
-
+**ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
 ## FairyMod NYX
 https://simscolony.github.io/FairyMod_Traditional_THAI/
@@ -51,8 +51,7 @@ https://simscolony.github.io/FairyMod_Traditional_THAI/
 
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/8.jpg)
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/9.jpg)
-![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/10.png)
-![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/11.png)
+
 
 
 # การติดตั้ง
@@ -60,11 +59,12 @@ https://simscolony.github.io/FairyMod_Traditional_THAI/
 ![MERMAID](https://i.imgur.com/VYgAuGj.jpg)
 
 # SS
-![MERMAID](https://i.imgur.com/jpYUAK0.png)
-![MERMAID](https://i.imgur.com/JZoAMw2.png)
+![MERMAID](https://i.imgur.com/jpYUAK0.png)![MERMAID](https://i.imgur.com/JZoAMw2.png)
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/10.png)
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/11.png)
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1933910-06-06-20_1-06-45PM.png)
 
-# หากพบปัญหา แจ้งงานแปล
+# หากพบปัญหา ติดต่อได้ที่
 # # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 # # ติดต่อสอบถามได้ที่ [TheSimsUptome](https://www.facebook.com/TheSimsUptome/)
 
