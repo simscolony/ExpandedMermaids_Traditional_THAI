@@ -1,6 +1,6 @@
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
 # MOD แปลไทยสำหรับ ExpandedMermaids 
-## แปลไปแล้ว 78%
+## อัตราการแปล 81.62% 
 
 | MOD   | Download |
 | ------------- | ------------- |
@@ -9,8 +9,6 @@
 
 **ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
-## FairyMod NYX
-https://simscolony.github.io/FairyMod_Traditional_THAI/
 
 # วิธีการเล่น
 ## สอนเล่นโดย TheSimsUptome 
