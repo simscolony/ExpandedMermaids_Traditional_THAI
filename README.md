@@ -1,11 +1,11 @@
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
 # MOD แปลไทยสำหรับ ExpandedMermaids 
-## อัตราการแปล 81.62% 
+## อัตราการแปล 81.62%  อัพเดท 15 มิถุนายน 2564
 
 | MOD   | Download |
 | ------------- | ------------- |
 |ExpandedMermaids ตัวเล่น|[ดาวโหลดตัวเล่น ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
-|แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V01.package)|
+|ExpandedMermaids V2 |[ตัวแปล ExpandedMermaids ภาษาไทย](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V02.package)|
 
 **ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
