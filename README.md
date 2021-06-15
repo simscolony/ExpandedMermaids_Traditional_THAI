@@ -1,15 +1,14 @@
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
 # MOD แปลไทยสำหรับ ExpandedMermaids 
-## แปลไปแล้ว 78%
+## อัตราการแปล 81.62% 
 
 | MOD   | Download |
 | ------------- | ------------- |
 |ExpandedMermaids ตัวเล่น|[ดาวโหลดตัวเล่น ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
-|แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย]()|
-|แปลไทย simsharefile|[ตัวแปล ExpandedMermaids ภาษาไทย simsharefile]()|
+|แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V01.package)|
 
-## FairyMod NYX
-https://simscolony.github.io/FairyMod_Traditional_THAI/
+**ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
+
 
 # วิธีการเล่น
 ## สอนเล่นโดย TheSimsUptome 
@@ -51,20 +50,36 @@ https://simscolony.github.io/FairyMod_Traditional_THAI/
 
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/8.jpg)
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/9.jpg)
-![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/10.jpg)
-![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/11.jpg)
 
+## ทักษะชาวเงือก
+เนื้อหาส่วนต่อไปนี้จะเป็นสรุปการเล่นแบบละเอียด หากใครไม่ชอบสปอยโปรดข้ามไป
+เป็นแม่มดแห่งท้องทะเลได้โดย ดำน้ำลึกหาคัมภีร์โพไซดอน แล้วคลิกที่คัมภีร์เลือกคำสั่งสำรวจ เมื่อสำรวจเสร็จแล้วจะได้รับทักษะมนตราแห่งท้องทะเล หรือเวทมนต์แห่งท้องทะเล แล้วแต่จะถนัดเรียก จากนั้นเดินลงไปในน้ำแบบไม่ต้องลึกมาก คลิกที่ตัวซิมส์แล้วเลือกคำสั่ง คำสวดสรรเสริญโพโซดอน หลังจากนั้นซิมส์ก็จะกลายเป็นแม่มดแห่งท้องทะเล และมีแถบพลังใหม่ปรากฎขึ้นมา
+ทักษะมนตราแห่งท้องทะเลสามารถศึกษาทักษะได้ด้วยการอ่านคัมภีร์โพไซดอนวนไปจนทักษะเพิ่มระดับขึ้น โดยการศึกษาจบในแต่ละระดับจะเป็นการปลดล็อกคาถาใหม่ๆ
+ระดับที่ 1 สามารถดึงน้ำขึ้นมาเล่นได้
+ระดับที่ 2 ปลดล็อกคาถากระเพาะปัสสาวะระเบิด ใช้กับซิมส์อื่นเป็นการกลั่นแกล้งให้ซิมส์เป้าหมายปัสสาวะแตก
+ระดับที่ 3 ปลดล็อกคาถาสาดน้ำ ทำให้ซิมส์เป้าหมายตัวเปียกปอน และคาถาพายุหมุน ทำให้ซิมส์เป้าหมายถูกพายุหมุนโจมตี
+ระดับที่ 4 ปลดล็อกคาถาจันทรคติ เป็นคาถาเรียกสายฟ้าฟาด โดยคลิกที่พื้นที่เป้าหมาย
+ระดับที่ 5 ปลดล็อกการยื่นพันธสัญญาให้กับซิมส์อื่น สามารถยื่นข้อเสนอทำความปราถนาให้ซิมส์อื่นสมหวังแลกกับสิ่งตอบแทน โดยสิ่งตอบแทนที่เรียกเก็บจะมี เงิน(1000 ซิมเมอลิออน) ความรัก ความเยาว์วัย(ได้มาจะเป็นการต่ออายุให้กับตัวเอง) และยกเลิกสัญญาคือไม่เรียกเก็บค่าตอบแทนเลยทำให้ฟรี(อารมณ์ใจดี) ในระดับที่ 5 นี้ก็จะปลดล็อกคาถาหายตัวด้วย จะไปที่ไหนก็วาร์ปเลยรวดเร็วทันใจ
+ระดับที่ 6 ปลดล็อกคาถาเปลี่ยนให้เป็นเคลพี(พรายน้ำ) สามารถร่ายคาถาให้ซิมส์เป้าหมายกลายร่างเป็นพรายน้ำได้
+ระดับที่ 7 ปลดล็อกคาถาอโฟรไดท์แห่งรัก เป็นการร่ายให้ซิมส์เป้าหมาย 2 คนรักกัน
+ระดับที่ 8 ปลดล็อกคาถาเปลี่ยนให้เป็นนางเงือก สามารถร่ายคาถาให้ซิมส์เป้าหมายกลายร่างเป็นนางเงือก
+ระดับที่ 9 ปลดล็อกคาถาเปลี่ยนให้เป็นมนุษย์ สามารถร่ายคาถาเปลี่ยนให้ซิมส์อมนุษย์กลายเป็นซิมส์ปกติ
+ระดับที่ 10 ปลดล็อกคาถาอมตะ สามารถร่ายคาถาให้ตัวเอง หรือซิมส์เป้าหมายกลายเป็นอมตะได้
+
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/12.jpg)
+หากต้องการเลิกเป็นแม่มดแห่งท้องทะเล ให้คลิกที่ตัวเองแล้วเลือกสละพลัง
 
 # การติดตั้ง
 ทำการแตกไฟล์ MOD หลัก  ExpandedMermaids และ [SIMSCOLONY]ExpandedMermaids_THAI ลง Floder Mod ของเกม The sims 4
 ![MERMAID](https://i.imgur.com/VYgAuGj.jpg)
 
 # SS
-![MERMAID](https://i.imgur.com/jpYUAK0.png)
-![MERMAID](https://i.imgur.com/JZoAMw2.png)
+![MERMAID](https://i.imgur.com/jpYUAK0.png)![MERMAID](https://i.imgur.com/JZoAMw2.png)
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/10.png)
+![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/11.png)
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1933910-06-06-20_1-06-45PM.png)
 
-# หากพบปัญหา แจ้งงานแปล
+# หากพบปัญหา ติดต่อได้ที่
 # # ติดต่อสอบถามได้ที่ [SIMSCOLONY](https://www.facebook.com/SimsColony/)
 # # ติดต่อสอบถามได้ที่ [TheSimsUptome](https://www.facebook.com/TheSimsUptome/)
 
