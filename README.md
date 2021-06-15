@@ -9,12 +9,12 @@
 
 **ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
-:merperson::mermaid::merman::merperson::mermaid::merman:
-# วิธีการเล่น
+
+# วิธีการเล่น U+1F9DC
 ## สอนเล่นโดย TheSimsUptome 
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/1.jpg)
 
-# :mermaid: มอดขยายพลังนางเงือก (Expanded Mermaids):merman:
+# มอดขยายพลังนางเงือก (Expanded Mermaids)
 ## ปฏิสัมพันธ์ใหม่ในมหาสมุทร
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/2.jpg)
 
@@ -22,7 +22,7 @@
 
 คำสั่ง Dive Deeper เป็นคำสั่งที่จะมีขึ้นมาให้เลือกเมื่อทักษะร่างกายถึงระดับที่ 5 ขึ้นไป ซึ่งคำสั่งนี้จะเป็นการให้นางเงือกดำดิ่งลงไปสู่ห้วงทะเลลึกเพื่อจับปลาที่แปลกใหม่ เช่น ปลาไหลไฟฟ้า และปลาแองเกลอร์  หรืออาจจะได้พบสิ่งที่น่าสนใจอื่นๆ
 
-:merperson::mermaid::merman:
+
 
 นอกจากนี้ยังมีคำสั่ง sleep underwater(นอนใต้น้ำ) ทำงานเหมือนกับคำสั่งจากตัวเกม แต่ของมอดนี้นางเงือกจะดำหายลงไปนอนใต้น้ำ ซึ่งปกติของตัวเกมจะเป็นการนอนลอยอยู่เหนือผิวน้ำ
 
@@ -41,7 +41,7 @@
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/7.jpg)
 
 
-## สมบัติมหาสมุทร :merman:
+## สมบัติมหาสมุทร 
 อีกอย่างหนึ่งที่สามารถพบได้จากการดำน้ำลึกคือ โพไซดอน กรีมัวร์(Poseidon's Grimoire) :merman: หรือตามราไสยเวทของโพไซดอน :merman: ซึ่งเป็นตำราพิเศษที่มีเวทมนต์จากเทพเจ้าของท้องทะเลลึก เมื่อนางเงือกหรือ ทายาทของมหาสมุทร(Child of the Ocean) อ่านหนังสือคาถาเวทมนต์นี้พวกเขาจะได้ปลดล็อกทักษะเวทมนต์แห่งท้องทะเล(Sea Sorcery) 
 
 ซึ่งทำให้สามารถร่ายคาถาต่างๆ ที่เกี่ยวข้องกับน้ำ และมหาสมุทรได้ ซึ่งมีหลายคาถามากๆ
@@ -72,7 +72,6 @@
 
 หากต้องการเลิกเป็นแม่มดแห่งท้องทะเล ให้คลิกที่ตัวเองแล้วเลือกสละพลัง
 
-:merperson::mermaid::merman:
 
 # การติดตั้ง
 ทำการแตกไฟล์ MOD หลัก  ExpandedMermaids และ [SIMSCOLONY]ExpandedMermaids_THAI ลง Floder Mod ของเกม The sims 4
