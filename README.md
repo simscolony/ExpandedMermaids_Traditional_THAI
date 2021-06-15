@@ -1,20 +1,20 @@
 ![MERMAID](https://thumbs.modthesims2.com/img/5/4/4/3/6/6/8/MTS_SpinningPlumbobs-1863822-TitleCardoption1.png)
 # MOD แปลไทยสำหรับ ExpandedMermaids 
-## อัตราการแปล 81.62% 
+## อัตราการแปล 81.62%  อัพเดท 15 มิถุนายน 2564
 
 | MOD   | Download |
 | ------------- | ------------- |
-|ExpandedMermaids ตัวเล่น|[ดาวโหลดตัวเล่น ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
-|แปลไทย ExpandedMermaids|[ตัวแปล ExpandedMermaids ภาษาไทย](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V01.package)|
+|ExpandedMermaids ตัวเล่น|[MOD หลัก ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
+|ExpandedMermaids V2 |[MOD แปลไทย ExpandedMermaids ภาษาไทย V2](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V02.package)|
 
 **ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
 
-# วิธีการเล่น
+# วิธีการเล่น 
 ## สอนเล่นโดย TheSimsUptome 
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/1.jpg)
 
-# :mermaid: มอดขยายพลังนางเงือก (Expanded Mermaids):merman:
+# มอดขยายพลังนางเงือก (Expanded Mermaids)
 ## ปฏิสัมพันธ์ใหม่ในมหาสมุทร
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/2.jpg)
 
@@ -39,7 +39,7 @@
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/7.jpg)
 
 
-## สมบัติมหาสมุทร
+## สมบัติมหาสมุทร 
 อีกอย่างหนึ่งที่สามารถพบได้จากการดำน้ำลึกคือ โพไซดอน กรีมัวร์(Poseidon's Grimoire) :merman: หรือตามราไสยเวทของโพไซดอน :merman: ซึ่งเป็นตำราพิเศษที่มีเวทมนต์จากเทพเจ้าของท้องทะเลลึก เมื่อนางเงือกหรือ ทายาทของมหาสมุทร(Child of the Ocean) อ่านหนังสือคาถาเวทมนต์นี้พวกเขาจะได้ปลดล็อกทักษะเวทมนต์แห่งท้องทะเล(Sea Sorcery) 
 
 ซึ่งทำให้สามารถร่ายคาถาต่างๆ ที่เกี่ยวข้องกับน้ำ และมหาสมุทรได้ ซึ่งมีหลายคาถามากๆ
@@ -51,7 +51,7 @@
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/8.jpg)
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/9.jpg)
 
-## ทักษะชาวเงือก
+## ทักษะชาวเงือก:merperson::mermaid:
 เนื้อหาส่วนต่อไปนี้จะเป็นสรุปการเล่นแบบละเอียด หากใครไม่ชอบสปอยโปรดข้ามไป
 เป็นแม่มดแห่งท้องทะเลได้โดย ดำน้ำลึกหาคัมภีร์โพไซดอน แล้วคลิกที่คัมภีร์เลือกคำสั่งสำรวจ เมื่อสำรวจเสร็จแล้วจะได้รับทักษะมนตราแห่งท้องทะเล หรือเวทมนต์แห่งท้องทะเล แล้วแต่จะถนัดเรียก จากนั้นเดินลงไปในน้ำแบบไม่ต้องลึกมาก คลิกที่ตัวซิมส์แล้วเลือกคำสั่ง คำสวดสรรเสริญโพโซดอน หลังจากนั้นซิมส์ก็จะกลายเป็นแม่มดแห่งท้องทะเล และมีแถบพลังใหม่ปรากฎขึ้นมา
 ทักษะมนตราแห่งท้องทะเลสามารถศึกษาทักษะได้ด้วยการอ่านคัมภีร์โพไซดอนวนไปจนทักษะเพิ่มระดับขึ้น โดยการศึกษาจบในแต่ละระดับจะเป็นการปลดล็อกคาถาใหม่ๆ
@@ -67,7 +67,9 @@
 ระดับที่ 10 ปลดล็อกคาถาอมตะ สามารถร่ายคาถาให้ตัวเอง หรือซิมส์เป้าหมายกลายเป็นอมตะได้
 
 ![MERMAID_TH](https://simscolony.github.io/ExpandedMermaids_Traditional_THAI/Mermaid/12.jpg)
+
 หากต้องการเลิกเป็นแม่มดแห่งท้องทะเล ให้คลิกที่ตัวเองแล้วเลือกสละพลัง
+
 
 # การติดตั้ง
 ทำการแตกไฟล์ MOD หลัก  ExpandedMermaids และ [SIMSCOLONY]ExpandedMermaids_THAI ลง Floder Mod ของเกม The sims 4
