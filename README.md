@@ -4,8 +4,8 @@
 
 | MOD   | Download |
 | ------------- | ------------- |
-|ExpandedMermaids ตัวเล่น|[MOD หลัก ExpandedMermaids](https://modthesims.info/d/630179/expanded-mermaids.html)|
-|ExpandedMermaids V2 |[MOD แปลไทย ExpandedMermaids ภาษาไทย V2](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V02.package)|
+|ExpandedMermaids ตัวเล่น|[MOD หลัก ExpandedMermaids](https://www.patreon.com/posts/expanded-mod-2-0-78685209)|
+|ExpandedMermaids V3 |[MOD แปลไทย ExpandedMermaids ภาษาไทย V3](https://github.com/simscolony/ExpandedMermaids_Traditional_THAI/raw/main/%5BSIMSCOLONY%5DExpandedMermaids_THAI_V02.package)|
 
 **ไม่อนุญาติให้รีอัพโหลด หรือ นำไปอัพแจกผ่านเว็บอื่นนอกจาก GITHUB เท่านั้น**
 
